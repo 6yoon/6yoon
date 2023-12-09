@@ -15,3 +15,4 @@
 <a href = "https://www.instagram.com/6_6_sixx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   
 </div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=6yoon&repo=github-readme-stats&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
