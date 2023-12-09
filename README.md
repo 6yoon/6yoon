@@ -8,7 +8,7 @@
 
 
 
-[![Nayoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=6yoon&theme=graywhite )](https://github.com/anuraghazra/github-readme-shadow_blue)
+[![Nayoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=6yoon&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-status)
 
 ---
 ### 💬sns
