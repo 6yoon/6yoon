@@ -13,7 +13,7 @@
 
 ---
 ### 💬sns
-<a href = "https://www.instagram.com/6_6_sixx/"><img src="https://img.shields.io/badge/Instagram-acf1f2?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href = "https://www.instagram.com/6_6_sixx/"><img src="https://img.shields.io/badge/Instagram-acf1f2?style=round-square&logo=Instagram&logoColor=white"/></a>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=0:acf1f2,100:f3eedc&height=130&section=footer&fontSize=90)
 </div>
