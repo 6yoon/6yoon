@@ -11,6 +11,7 @@
 [![Nayoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=6yoon&theme=graywhite )](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+<a href = "https://www.instagram.com/6_6_sixx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   
 </div>
 <!--
